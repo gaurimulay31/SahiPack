@@ -1,0 +1,27 @@
+# Core Backend Framework
+Flask==3.0.2
+Werkzeug==3.0.1
+Flask-Cors==4.0.0
+
+# Data Processing & Analytics
+pandas==2.2.1
+numpy==1.26.4
+
+# External API Integration
+requests==2.31.0
+
+# Optical Character Recognition (OCR)
+easyocr==1.7.1
+Pillow==10.2.0
+
+# Future ML & Explainability (Interfaces ready)
+scikit-learn==1.4.1.post1
+shap==0.45.0
+lime==0.2.0.1
+
+# LLM Integration Interface
+openai==1.14.1
+
+# Testing & Utilities
+pytest==8.0.2
+python-dotenv==1.0.1

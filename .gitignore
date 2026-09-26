@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# SQLite Database Files
+*.db
+*.sqlite
+*.sqlite3
+
+# EasyOCR cached models
+.EasyOCR/
+models/ocr_weights/
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Logs & Temporary files
+*.log
+scratch/
+tmp/
+.pytest_cache/
+.coverage
+htmlcov/
