@@ -2,7 +2,7 @@
 
 > **Tagline**: *"Don’t just read the label. Understand it."*
 
-https://sahipack-app.web.app
+https://sahipack-app.web.app/
 
 ## What is SahiPack?
 **SahiPack** is a responsive, independent packaged food label analysis web application designed to help consumers evaluate food products using barcode scanning, label image OCR, general food quality scoring on a strict **0–10 scale**, multi-select personalization matching (age groups, allergies, health requirements, lifestyle goals), personalized scoring on a **0–10 scale**, score explanations ("Why This Score?"), better-suited Indian food alternatives, an AI assistant ("Ask SahiPack"), and future feature showcases.
